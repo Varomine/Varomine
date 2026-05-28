@@ -1,7 +1,7 @@
-# Hi there, I'm Varomine! 👋
+# Hi there!👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHh1dThmMHBwc283MnF1dzR4am4wc20wZ285MXd2dm1tNWwwaTJyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Cozy Anime Coding Desk" width="100%">
+  <img height="250" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Cute Anime Banner">
 </p>
 
 
@@ -92,22 +92,13 @@
 ## 📊 Git Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/anuraghazard/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varomine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Varomine's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazard/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varomine&layout=compact&theme=tokyonight" alt="Varomine's Top Languages"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varomine&theme=tokyonight" width="100%" alt="Varomine's GitHub Activity Graph" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutoshgwarped/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varomine&theme=tokyonight" alt="Varomine's GitHub Streak"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Varomine/count.svg" alt="Profile Visitor Count" />
 </p>
 
 ---

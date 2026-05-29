@@ -29,7 +29,7 @@
     </td>
     <!-- NSFW-Web -->
     <td width="50%" valign="top">
-      <h3>🔞 <a href="https://github.com/Varomine/NSFW-Web">NSFW-Web (ENG Sub/Dub)</a></h3>
+      <h3>🔞 <a href="https://github.com/Varomine/NSFW-Web">NSFW-Web (Thai Sub/Raw)</a></h3>
       <p>A premium streaming platform dedicated to mature anime content. Built for high performance, offering seamless playback, multi-source video servers, and English subtitles/audio tracks.</p>
       <p>
         <a href="https://github.com/Varomine/NSFW-Web"><img src="https://img.shields.io/badge/Stack-Modern%20Web-58a6ff?style=flat-square&logo=react&logoColor=white" alt="React/Next"/></a>

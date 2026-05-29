@@ -1,4 +1,4 @@
-# Hi there!👋
+# Hi there, I'm Varomine! 👋
 
 <p align="center">
   <img height="250" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Cute Anime Banner">
@@ -29,7 +29,7 @@
     </td>
     <!-- NSFW-Web -->
     <td width="50%" valign="top">
-      <h3>🔞 <a href="https://github.com/Varomine/NSFW-Web">NSFW-Web (Thai Sub/Raw)</a></h3>
+      <h3>🔞 <a href="https://github.com/Varomine/NSFW-Web">NSFW-Web (ENG Sub/Dub)</a></h3>
       <p>A premium streaming platform dedicated to mature anime content. Built for high performance, offering seamless playback, multi-source video servers, and English subtitles/audio tracks.</p>
       <p>
         <a href="https://github.com/Varomine/NSFW-Web"><img src="https://img.shields.io/badge/Stack-Modern%20Web-58a6ff?style=flat-square&logo=react&logoColor=white" alt="React/Next"/></a>
@@ -49,11 +49,22 @@
         <a href="https://github.com/Varomine/h-anime-Api"><img src="https://img.shields.io/badge/Region-Thai%20Sub%20%26%20Raw-red?style=flat-square" alt="Region"/></a>
       </p>
     </td>
-    <!-- Tech Stack Quick View -->
+    <!-- Anime Scraper API -->
     <td width="50%" valign="top">
-      <h3>🎨 Core Tech Stack</h3>
-      <p>Here are the primary technologies and tools I use to bring my ideas to life:</p>
-      <p align="left">
+      <h3>🕸️ <a href="https://github.com/Varomine/Anime-Scraper-API">Anime Scraper API</a></h3>
+      <p>A high-performance scraping engine built to extract, structure, and serve real-time anime stream sources, episode metadata, and search queries from various public streaming indexes.</p>
+      <p>
+        <a href="https://github.com/Varomine/Anime-Scraper-API"><img src="https://img.shields.io/badge/Stack-Node.js%20%2F%20JavaScript-339933?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/></a>
+        <a href="https://github.com/Varomine/Anime-Scraper-API"><img src="https://img.shields.io/badge/Library-Cheerio%20%2F%20Axios-FF6000?style=flat-square" alt="Library"/></a>
+        <a href="https://github.com/Varomine/Anime-Scraper-API"><img src="https://img.shields.io/badge/Status-Active%20Tool-brightgreen?style=flat-square" alt="Status"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Tech Stack Full Width -->
+    <td colspan="2" valign="top" align="center">
+      <h3>🎨 Core Tech Stack & Tools</h3>
+      <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,git,github,vscode,vercel&theme=dark" alt="Skill Icons"/>
         </a>

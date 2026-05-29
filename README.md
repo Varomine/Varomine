@@ -34,7 +34,7 @@
       <p>
         <a href="https://github.com/Varomine/NSFW-Web"><img src="https://img.shields.io/badge/Stack-Modern%20Web-58a6ff?style=flat-square&logo=react&logoColor=white" alt="React/Next"/></a>
         <a href="https://github.com/Varomine/NSFW-Web"><img src="https://img.shields.io/badge/Streaming-HLS%20%2F%20Dash-orange?style=flat-square" alt="Streaming"/></a>
-        <a href="https://github.com/Varomine/NSFW-Web"><img src="https://img.shields.io/badge/Content-ENG%20Sub%2FDub-brightgreen?style=flat-square" alt="Content"/></a>
+        <a href="https://github.com/Varomine/h-anime-Api"><img src="https://img.shields.io/badge/Region-Thai%20Sub%20%26%20Raw-red?style=flat-square" alt="Region"/></a>
       </p>
     </td>
   </tr>
@@ -45,7 +45,6 @@
       <p>A robust backend API supporting scraped and organized NSFW anime metadata, search endpoints, and raw source streaming directories with specialized Thai sub support.</p>
       <p>
         <a href="https://github.com/Varomine/h-anime-Api"><img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-        <a href="https://github.com/Varomine/h-anime-Api"><img src="https://img.shields.io/badge/Database-MongoDB%20%2F%20Redis-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Database"/></a>
         <a href="https://github.com/Varomine/h-anime-Api"><img src="https://img.shields.io/badge/Region-Thai%20Sub%20%26%20Raw-red?style=flat-square" alt="Region"/></a>
       </p>
     </td>

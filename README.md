@@ -60,8 +60,18 @@
     </td>
   </tr>
   <tr>
-    <!-- Tech Stack Full Width -->
-    <td colspan="2" valign="top" align="center">
+    <!-- AniVault -->
+    <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/Varomine/AniVault">AniVault</a></h3>
+      <p>A personal archiving vault and media library designed to track, store, and organize anime episodes, movies, and custom playlists with a high-performance database.</p>
+      <p>
+        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Stack-Modern%20Web-58a6ff?style=flat-square&logo=react&logoColor=white" alt="React"/></a>
+        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Database-Storage%20Vault-BD93F9?style=flat-square" alt="Storage"/></a>
+        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Status-In%20Active%20Dev-00d2ff?style=flat-square" alt="Status"/></a>
+      </p>
+    </td>
+    <!-- Tech Stack Quick View -->
+    <td width="50%" valign="top" align="center">
       <h3>🎨 Core Tech Stack & Tools</h3>
       <p align="center">
         <a href="https://skillicons.dev">

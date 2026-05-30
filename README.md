@@ -62,12 +62,12 @@
   <tr>
     <!-- AniVault -->
     <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/Varomine/AniVault">AniVault</a></h3>
-      <p>A personal archiving vault and media library designed to track, store, and organize anime episodes, movies, and custom playlists with a high-performance database.</p>
+      <h3>🌌 <a href="https://github.com/Varomine/AniVault">AniVault</a></h3>
+      <p>A premium anime streaming, scheduling, and watchlist tracking platform. Built with a custom luxury black, charcoal, and gold design system, utilizing the Anikage API.</p>
       <p>
-        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Stack-Modern%20Web-58a6ff?style=flat-square&logo=react&logoColor=white" alt="React"/></a>
-        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Database-Storage%20Vault-BD93F9?style=flat-square" alt="Storage"/></a>
-        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Status-In%20Active%20Dev-00d2ff?style=flat-square" alt="Status"/></a>
+        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Stack-React%20%2F%20Vite-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React & Vite"/></a>
+        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/API-Anikage%20(Animepahe)-BD93F9?style=flat-square" alt="API"/></a>
+        <a href="https://github.com/Varomine/AniVault"><img src="https://img.shields.io/badge/Status-Responsive%20Web-brightgreen?style=flat-square" alt="Status"/></a>
       </p>
     </td>
     <!-- Tech Stack Quick View -->
